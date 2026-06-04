@@ -2,5 +2,5 @@
 
 Official policy pages for Rad Survival Guide.
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
+- [Privacy Policy](privacy.md)
+- [Terms of Service](terms.md)
