@@ -3,7 +3,7 @@ Terms of Service
 Rad Survival Guide
 Effective Date: 5/30/2026
 Developer: Chasing Lycan Studios
-Contact: lycanjaramillo@gmail.com
+Contact: lycan.jaramillo@gmail.com
 
 1. Acceptance of Terms
 
