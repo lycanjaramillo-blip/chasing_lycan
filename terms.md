@@ -94,9 +94,15 @@ If a subscription expires, is canceled, refunded, revoked, charged back, or othe
 
 For downloads through Apple App Store, [Apple’s Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies unless a custom license agreement is provided through App Store Connect. These Terms supplement applicable app store terms and do not replace mandatory consumer protections or billing-provider terms.
 
+### Challenge Run Early Access Preview
+
+Challenge Run is currently included with Full Access as an early access preview and does not require a separate Game Mode purchase during the preview period. Early access features may continue to be developed, changed, expanded, or refined.
+
+Chasing Lycan Studios may later end the broad preview access and offer Challenge Run or the larger Game Mode as a separately purchased package. Users who qualify for the Founding Lifetime Bonus described below will retain the access promised by that bonus, subject to continued app and Game Mode availability. Any future separate package, price, and entitlement terms will be displayed before purchase.
+
 ## 9. Lifetime Full Access
 
-Lifetime Full Access refers to access to the Full Access features included with the app’s current lifetime purchase offering at the time of purchase, subject to continued app availability and these Terms.
+Lifetime Full Access refers to access to features identified as part of the app’s permanent Full Access offering at the time of purchase, subject to continued app availability and these Terms. Temporary previews, trials, promotions, and beta or early access features are not part of the permanent Lifetime Full Access offering unless specifically stated.
 
 Lifetime Full Access does not automatically guarantee access to every future paid add-on, expansion, separate category package, separate product, separately priced feature, or future app unless specifically stated.
 
