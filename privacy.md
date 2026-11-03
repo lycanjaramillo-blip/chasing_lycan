@@ -3,6 +3,7 @@
 # Rad Survival Guide
 
 **Effective Date:** 5/30/2026
+**Last Updated:** 11/3/2026
 **Developer:** Chasing Lycan Studios
 **Contact:** [lycanjaramillo@gmail.com](mailto:lycanjaramillo@gmail.com)
 
@@ -12,7 +13,7 @@ Rad Survival Guide is an educational study app designed to help users prepare fo
 
 This Privacy Policy explains what information Rad Survival Guide stores, uses, and shares.
 
-Rad Survival Guide is an independent study tool and is not affiliated with, endorsed by, or sponsored by ARRT.
+Rad Survival Guide is an independent study tool and is not affiliated with, endorsed by, or sponsored by The American Registry of Radiologic Technologists (ARRT). ARRT and related marks are the property of The American Registry of Radiologic Technologists.
 
 ## Information Stored on Your Device
 
@@ -25,6 +26,7 @@ This may include:
 * Focus deck cards
 * Flagged practice questions
 * Subsection performance statistics
+* Positioning Lab practice and challenge performance statistics
 * Missed question history
 * Past practice test results
 * Completed practice test count
@@ -35,6 +37,7 @@ This may include:
 * Beta access status and redemption date
 * App access settings used for local app behavior
 * Positioning Lab tutorial completion status
+* A limited cumulative active-use timer and current-session timestamp used only to determine eligibility for a founding-tester achievement
 * Locally stored issue or bug report entries, if you choose to use those features
 
 This information is stored locally on your device using app storage. Rad Survival Guide does not currently sync this information to a Chasing Lycan Studios server.
@@ -53,7 +56,7 @@ Positioning Lab activity is intended for educational study and practice only. It
 
 ## Purchases and Subscription Information
 
-Rad Survival Guide uses RevenueCat and app store billing systems, such as Google Play Billing where applicable, to process and manage purchases, subscriptions, restorations, and entitlement status.
+Rad Survival Guide uses RevenueCat and applicable app store billing systems, including Apple App Store/StoreKit and Google Play Billing, to process and manage purchases, subscriptions, restorations, and entitlement status.
 
 Rad Survival Guide may offer:
 
@@ -61,13 +64,13 @@ Rad Survival Guide may offer:
 * Lifetime Full Access one-time purchase
 * Restore Purchase functionality
 
-RevenueCat and app store billing systems may process purchase-related information such as purchase status, subscription status, transaction information, app identifiers, device identifiers, and entitlement status.
+Because Rad Survival Guide does not require an app account, RevenueCat may generate an anonymous App User ID for the installation. RevenueCat and the applicable app store may process information needed to provide purchase services, which may include purchase history, product and entitlement status, transaction information, Apple receipt data or Google purchase tokens, app identifiers, device type, operating system, IP address, and the last time the app contacted the purchase service.
 
-RevenueCat’s Google Play Data Safety guidance states that apps using RevenueCat should disclose purchase history as collected by RevenueCat.
+This information is used to complete purchases, validate receipts, restore purchases, prevent purchase fraud, maintain entitlement status, and provide purchase support. Rad Survival Guide does not use RevenueCat data for advertising or cross-app tracking.
 
 Rad Survival Guide uses RevenueCat CustomerInfo and entitlement status to determine whether Full Access is active. The app does not permanently store a “paid forever” flag for subscriptions. If RevenueCat no longer reports an active entitlement, subscription-based Full Access may end unless another access source, such as Lifetime Full Access or active beta access, applies.
 
-For more information about RevenueCat’s privacy practices, please review RevenueCat’s Privacy Policy.
+For more information, review [RevenueCat’s Privacy Policy](https://www.revenuecat.com/privacy-policy), [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/), and [Google’s Privacy Policy](https://policies.google.com/privacy).
 
 ## Beta Access Codes
 
@@ -155,6 +158,7 @@ Rad Survival Guide uses third-party services and packages to provide app functio
 These may include:
 
 * RevenueCat for purchase and entitlement management
+* Apple App Store and StoreKit for iOS purchases, subscriptions, and restoration, where applicable
 * Google Play Billing for Android billing and subscription management, where applicable
 * url_launcher to open email links, privacy links, terms links, or other external links
 * flutter_local_notifications for local reminders
@@ -162,19 +166,25 @@ These may include:
 * share_plus for user-initiated sharing features
 * Clipboard functionality for user-initiated copying of support, bug report, calibration, or debug text
 
-Third-party services may process information according to their own privacy policies and data practices.
+Third-party services may process information according to their own privacy policies, retention periods, security practices, and legal obligations. Purchase information may be processed in the United States or other countries where these providers or their service providers operate. Service providers processing information on behalf of Chasing Lycan Studios are required to protect it consistently with this Privacy Policy and applicable law.
 
 Google Play requires developers to provide Data Safety information describing whether and how apps collect, share, and protect user data.
 
 ## Managing Purchases and Subscriptions
 
-Subscriptions and purchases are managed through the app store or billing provider used for the purchase, such as Google Play, and through RevenueCat entitlement management.
+Subscriptions and purchases are managed through the app store or billing provider used for the purchase, such as Apple App Store or Google Play, and through RevenueCat entitlement management.
 
-If you purchased through Google Play, cancellation and subscription management are handled through your Google Play account.
+If you purchased through Apple App Store, cancellation and subscription management are handled through your Apple Account and App Store subscription settings. If you purchased through Google Play, they are handled through your Google Play account.
 
 Canceling a subscription may stop future renewal, but access may continue until the end of the active billing or trial period.
 
-Purchase and subscription records handled by Google Play, RevenueCat, or other applicable app store billing systems may be subject to those providers’ own retention and account policies.
+Purchase and subscription records handled by Apple, Google Play, RevenueCat, or another applicable app store billing system may be subject to those providers’ own retention and account policies.
+
+## Your Choices and Permissions
+
+You may disable local notifications in the app or through device settings. You choose whether to send support or bug-report emails and may review or edit them before sending. Rad Survival Guide does not require access to your camera, microphone, location, contacts, or photo library.
+
+Canceling a subscription prevents future renewal but does not automatically delete transaction records. Deleting the app stops future app-initiated contact with RevenueCat from that installation, but Apple, Google, RevenueCat, or other billing providers may retain purchase records under their policies and legal obligations.
 
 ## Data Deletion
 
@@ -183,19 +193,23 @@ Because Rad Survival Guide currently stores study progress and settings locally 
 * Deleting the app from your device, or
 * Clearing the app’s storage/data through your device settings
 
+Local information remains on the device until it is cleared, overwritten by normal app use, or removed by deleting the app or clearing app data.
+
 For support-related emails or issue reports you send directly, you may contact:
 
 [lycanjaramillo@gmail.com](mailto:lycanjaramillo@gmail.com)
 
-to request deletion of your support correspondence where reasonably possible.
+to request deletion of your support correspondence where reasonably possible. Support correspondence is retained only as reasonably needed to respond, troubleshoot, maintain business records, protect the app and its users, or comply with legal obligations.
 
-Purchase and subscription records handled by Google Play, RevenueCat, or other applicable app store billing systems may be subject to those providers’ own retention and account policies.
+You may also contact that address to request access to, correction of, or deletion of purchase-service data controlled by Chasing Lycan Studios. Where reasonably possible and legally permitted, Chasing Lycan Studios will act on the request or submit the appropriate request to RevenueCat. Apple, Google, and other billing providers independently control certain transaction records and may retain them under their own policies or legal obligations.
+
+Depending on where you live, applicable law may provide additional privacy rights, including rights to access, correct, delete, restrict, or object to certain processing. Contact Chasing Lycan Studios to make a request. Identity or purchase verification may be required before a request can be completed.
 
 ## Children’s Privacy
 
-Rad Survival Guide is intended for students and users preparing for radiography-related study and is not directed toward young children.
+Rad Survival Guide is intended for students and users preparing for radiography-related study and is not directed to children under 13.
 
-The app does not knowingly collect personal information from children. If you believe a child has provided personal information through a support email or issue report, please contact:
+The app does not knowingly collect personal information from children under 13. A parent or guardian who believes a child has provided personal information through a support email or issue report should contact:
 
 [lycanjaramillo@gmail.com](mailto:lycanjaramillo@gmail.com)
 
